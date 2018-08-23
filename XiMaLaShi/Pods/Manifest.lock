@@ -1,0 +1,16 @@
+PODS:
+  - QQBase (0.0.1)
+
+DEPENDENCIES:
+  - QQBase (from `../../LocalLib/QQBase`)
+
+EXTERNAL SOURCES:
+  QQBase:
+    :path: "../../LocalLib/QQBase"
+
+SPEC CHECKSUMS:
+  QQBase: cdfae9ff34155309486916044177e5dfcb5282d0
+
+PODFILE CHECKSUM: 5bc90b49438b9f3a105838d4b2dfb2a2449baeb6
+
+COCOAPODS: 1.5.3

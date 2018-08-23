@@ -7,9 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		186D6095212EE8FC0020BC1B /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D6094212EE8FC0020BC1B /* UIView+Frame.m */; };
-		186D6098212EE9B60020BC1B /* UIImage+QQImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D6097212EE9B60020BC1B /* UIImage+QQImage.m */; };
-		186D609B212EE9F40020BC1B /* CALayer+PauseAimate.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D609A212EE9F40020BC1B /* CALayer+PauseAimate.m */; };
 		186D609E212EEA860020BC1B /* QQNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D609D212EEA860020BC1B /* QQNavigationController.m */; };
 		186D60A1212EEAA30020BC1B /* QQTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D60A0212EEAA30020BC1B /* QQTabBarController.m */; };
 		186D60A4212EEABE0020BC1B /* QQNavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D60A3212EEABE0020BC1B /* QQNavigationBar.m */; };
@@ -23,15 +20,10 @@
 		18A97CA0212AEB5D00A6A033 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18A97C9F212AEB5D00A6A033 /* Assets.xcassets */; };
 		18A97CBA212AEEB200A6A033 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A97CB9212AEEB200A6A033 /* AppDelegate.m */; };
 		18A97CBD212AEED600A6A033 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A97CBB212AEED600A6A033 /* main.m */; };
+		795F7DD4E1CDCD7DC2F17B3E /* libPods-XiMaLaShi.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D08D8267A43FC59FFAC6973 /* libPods-XiMaLaShi.a */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		186D6093212EE8FC0020BC1B /* UIView+Frame.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIView+Frame.h"; sourceTree = "<group>"; };
-		186D6094212EE8FC0020BC1B /* UIView+Frame.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIView+Frame.m"; sourceTree = "<group>"; };
-		186D6096212EE9B60020BC1B /* UIImage+QQImage.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "UIImage+QQImage.h"; sourceTree = "<group>"; };
-		186D6097212EE9B60020BC1B /* UIImage+QQImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+QQImage.m"; sourceTree = "<group>"; };
-		186D6099212EE9F40020BC1B /* CALayer+PauseAimate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CALayer+PauseAimate.h"; sourceTree = "<group>"; };
-		186D609A212EE9F40020BC1B /* CALayer+PauseAimate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "CALayer+PauseAimate.m"; sourceTree = "<group>"; };
 		186D609C212EEA860020BC1B /* QQNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QQNavigationController.h; sourceTree = "<group>"; };
 		186D609D212EEA860020BC1B /* QQNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QQNavigationController.m; sourceTree = "<group>"; };
 		186D609F212EEAA30020BC1B /* QQTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QQTabBarController.h; sourceTree = "<group>"; };
@@ -56,6 +48,9 @@
 		18A97CB9212AEEB200A6A033 /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
 		18A97CBB212AEED600A6A033 /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		18A97CBC212AEED600A6A033 /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8D08D8267A43FC59FFAC6973 /* libPods-XiMaLaShi.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-XiMaLaShi.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		9C82AB43BA58D15F314B6A5C /* Pods-XiMaLaShi.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XiMaLaShi.debug.xcconfig"; path = "Pods/Target Support Files/Pods-XiMaLaShi/Pods-XiMaLaShi.debug.xcconfig"; sourceTree = "<group>"; };
+		CF6AEDB327972B2EB0065F88 /* Pods-XiMaLaShi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-XiMaLaShi.release.xcconfig"; path = "Pods/Target Support Files/Pods-XiMaLaShi/Pods-XiMaLaShi.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +58,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				795F7DD4E1CDCD7DC2F17B3E /* libPods-XiMaLaShi.a in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -74,6 +70,8 @@
 			children = (
 				18A97C95212AEB5C00A6A033 /* XiMaLaShi */,
 				18A97C94212AEB5C00A6A033 /* Products */,
+				7FC3B40DB14337FC394F3E3D /* Pods */,
+				DB6887DB6D6A5C2835E465D1 /* Frameworks */,
 			);
 			sourceTree = "<group>";
 		};
@@ -113,18 +111,9 @@
 		18A97CB1212AEE5C00A6A033 /* Other */ = {
 			isa = PBXGroup;
 			children = (
-				18A97CB2212AEE5C00A6A033 /* BaseClasses */,
 				18A97CB3212AEE5C00A6A033 /* System */,
 			);
 			path = Other;
-			sourceTree = "<group>";
-		};
-		18A97CB2212AEE5C00A6A033 /* BaseClasses */ = {
-			isa = PBXGroup;
-			children = (
-				18A97CB7212AEE8C00A6A033 /* Category */,
-			);
-			path = BaseClasses;
 			sourceTree = "<group>";
 		};
 		18A97CB3212AEE5C00A6A033 /* System */ = {
@@ -172,17 +161,21 @@
 			path = View;
 			sourceTree = "<group>";
 		};
-		18A97CB7212AEE8C00A6A033 /* Category */ = {
+		7FC3B40DB14337FC394F3E3D /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				186D6093212EE8FC0020BC1B /* UIView+Frame.h */,
-				186D6094212EE8FC0020BC1B /* UIView+Frame.m */,
-				186D6096212EE9B60020BC1B /* UIImage+QQImage.h */,
-				186D6097212EE9B60020BC1B /* UIImage+QQImage.m */,
-				186D6099212EE9F40020BC1B /* CALayer+PauseAimate.h */,
-				186D609A212EE9F40020BC1B /* CALayer+PauseAimate.m */,
+				9C82AB43BA58D15F314B6A5C /* Pods-XiMaLaShi.debug.xcconfig */,
+				CF6AEDB327972B2EB0065F88 /* Pods-XiMaLaShi.release.xcconfig */,
 			);
-			path = Category;
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		DB6887DB6D6A5C2835E465D1 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				8D08D8267A43FC59FFAC6973 /* libPods-XiMaLaShi.a */,
+			);
+			name = Frameworks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -192,6 +185,7 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 18A97CA9212AEB5E00A6A033 /* Build configuration list for PBXNativeTarget "XiMaLaShi" */;
 			buildPhases = (
+				C787197A0FE951B026085E53 /* [CP] Check Pods Manifest.lock */,
 				18A97C8F212AEB5C00A6A033 /* Sources */,
 				18A97C90212AEB5C00A6A033 /* Frameworks */,
 				18A97C91212AEB5C00A6A033 /* Resources */,
@@ -251,19 +245,37 @@
 		};
 /* End PBXResourcesBuildPhase section */
 
+/* Begin PBXShellScriptBuildPhase section */
+		C787197A0FE951B026085E53 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+				"${PODS_PODFILE_DIR_PATH}/Podfile.lock",
+				"${PODS_ROOT}/Manifest.lock",
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+				"$(DERIVED_FILE_DIR)/Pods-XiMaLaShi-checkManifestLockResult.txt",
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_PODFILE_DIR_PATH}/Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n# This output is used by Xcode 'outputs' to avoid re-running this script phase.\necho \"SUCCESS\" > \"${SCRIPT_OUTPUT_FILE_0}\"\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
 /* Begin PBXSourcesBuildPhase section */
 		18A97C8F212AEB5C00A6A033 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 				186D60B4212EF20B0020BC1B /* TestVC.m in Sources */,
-				186D6095212EE8FC0020BC1B /* UIView+Frame.m in Sources */,
 				186D60B7212EF22F0020BC1B /* TestVC2.m in Sources */,
 				186D60AD212EEB580020BC1B /* QQTabBarMiddleView.m in Sources */,
 				186D60A1212EEAA30020BC1B /* QQTabBarController.m in Sources */,
-				186D609B212EE9F40020BC1B /* CALayer+PauseAimate.m in Sources */,
 				18A97C9B212AEB5C00A6A033 /* ViewController.m in Sources */,
-				186D6098212EE9B60020BC1B /* UIImage+QQImage.m in Sources */,
 				18A97CBD212AEED600A6A033 /* main.m in Sources */,
 				186D60A4212EEABE0020BC1B /* QQNavigationBar.m in Sources */,
 				186D60A7212EEACE0020BC1B /* QQTabBar.m in Sources */,
@@ -398,6 +410,7 @@
 		};
 		18A97CAA212AEB5E00A6A033 /* Debug */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = 9C82AB43BA58D15F314B6A5C /* Pods-XiMaLaShi.debug.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
@@ -416,6 +429,7 @@
 		};
 		18A97CAB212AEB5E00A6A033 /* Release */ = {
 			isa = XCBuildConfiguration;
+			baseConfigurationReference = CF6AEDB327972B2EB0065F88 /* Pods-XiMaLaShi.release.xcconfig */;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
