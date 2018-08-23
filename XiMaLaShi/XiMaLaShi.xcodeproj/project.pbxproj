@@ -10,6 +10,14 @@
 		186D6095212EE8FC0020BC1B /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D6094212EE8FC0020BC1B /* UIView+Frame.m */; };
 		186D6098212EE9B60020BC1B /* UIImage+QQImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D6097212EE9B60020BC1B /* UIImage+QQImage.m */; };
 		186D609B212EE9F40020BC1B /* CALayer+PauseAimate.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D609A212EE9F40020BC1B /* CALayer+PauseAimate.m */; };
+		186D609E212EEA860020BC1B /* QQNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D609D212EEA860020BC1B /* QQNavigationController.m */; };
+		186D60A1212EEAA30020BC1B /* QQTabBarController.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D60A0212EEAA30020BC1B /* QQTabBarController.m */; };
+		186D60A4212EEABE0020BC1B /* QQNavigationBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D60A3212EEABE0020BC1B /* QQNavigationBar.m */; };
+		186D60A7212EEACE0020BC1B /* QQTabBar.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D60A6212EEACE0020BC1B /* QQTabBar.m */; };
+		186D60AD212EEB580020BC1B /* QQTabBarMiddleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D60AC212EEB580020BC1B /* QQTabBarMiddleView.m */; };
+		186D60B1212EEB8B0020BC1B /* QQTabBarMiddleView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 186D60B0212EEB8B0020BC1B /* QQTabBarMiddleView.xib */; };
+		186D60B4212EF20B0020BC1B /* TestVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D60B3212EF20B0020BC1B /* TestVC.m */; };
+		186D60B7212EF22F0020BC1B /* TestVC2.m in Sources */ = {isa = PBXBuildFile; fileRef = 186D60B6212EF22F0020BC1B /* TestVC2.m */; };
 		18A97C9B212AEB5C00A6A033 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 18A97C9A212AEB5C00A6A033 /* ViewController.m */; };
 		18A97C9E212AEB5C00A6A033 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 18A97C9C212AEB5C00A6A033 /* Main.storyboard */; };
 		18A97CA0212AEB5D00A6A033 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 18A97C9F212AEB5D00A6A033 /* Assets.xcassets */; };
@@ -24,6 +32,21 @@
 		186D6097212EE9B60020BC1B /* UIImage+QQImage.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "UIImage+QQImage.m"; sourceTree = "<group>"; };
 		186D6099212EE9F40020BC1B /* CALayer+PauseAimate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "CALayer+PauseAimate.h"; sourceTree = "<group>"; };
 		186D609A212EE9F40020BC1B /* CALayer+PauseAimate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = "CALayer+PauseAimate.m"; sourceTree = "<group>"; };
+		186D609C212EEA860020BC1B /* QQNavigationController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QQNavigationController.h; sourceTree = "<group>"; };
+		186D609D212EEA860020BC1B /* QQNavigationController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QQNavigationController.m; sourceTree = "<group>"; };
+		186D609F212EEAA30020BC1B /* QQTabBarController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QQTabBarController.h; sourceTree = "<group>"; };
+		186D60A0212EEAA30020BC1B /* QQTabBarController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QQTabBarController.m; sourceTree = "<group>"; };
+		186D60A2212EEABE0020BC1B /* QQNavigationBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QQNavigationBar.h; sourceTree = "<group>"; };
+		186D60A3212EEABE0020BC1B /* QQNavigationBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QQNavigationBar.m; sourceTree = "<group>"; };
+		186D60A5212EEACE0020BC1B /* QQTabBar.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QQTabBar.h; sourceTree = "<group>"; };
+		186D60A6212EEACE0020BC1B /* QQTabBar.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QQTabBar.m; sourceTree = "<group>"; };
+		186D60AB212EEB580020BC1B /* QQTabBarMiddleView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QQTabBarMiddleView.h; sourceTree = "<group>"; };
+		186D60AC212EEB580020BC1B /* QQTabBarMiddleView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = QQTabBarMiddleView.m; sourceTree = "<group>"; };
+		186D60B0212EEB8B0020BC1B /* QQTabBarMiddleView.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = QQTabBarMiddleView.xib; sourceTree = "<group>"; };
+		186D60B2212EF20B0020BC1B /* TestVC.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestVC.h; sourceTree = "<group>"; };
+		186D60B3212EF20B0020BC1B /* TestVC.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestVC.m; sourceTree = "<group>"; };
+		186D60B5212EF22F0020BC1B /* TestVC2.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = TestVC2.h; sourceTree = "<group>"; };
+		186D60B6212EF22F0020BC1B /* TestVC2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = TestVC2.m; sourceTree = "<group>"; };
 		18A97C93212AEB5C00A6A033 /* XiMaLaShi.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = XiMaLaShi.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		18A97C99212AEB5C00A6A033 /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
 		18A97C9A212AEB5C00A6A033 /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
@@ -68,6 +91,10 @@
 				18A97CB0212AEE5C00A6A033 /* Classes */,
 				18A97C99212AEB5C00A6A033 /* ViewController.h */,
 				18A97C9A212AEB5C00A6A033 /* ViewController.m */,
+				186D60B2212EF20B0020BC1B /* TestVC.h */,
+				186D60B3212EF20B0020BC1B /* TestVC.m */,
+				186D60B5212EF22F0020BC1B /* TestVC2.h */,
+				186D60B6212EF22F0020BC1B /* TestVC2.m */,
 				18A97C9C212AEB5C00A6A033 /* Main.storyboard */,
 				18A97C9F212AEB5D00A6A033 /* Assets.xcassets */,
 			);
@@ -123,6 +150,10 @@
 		18A97CB5212AEE5C00A6A033 /* Controller */ = {
 			isa = PBXGroup;
 			children = (
+				186D609C212EEA860020BC1B /* QQNavigationController.h */,
+				186D609D212EEA860020BC1B /* QQNavigationController.m */,
+				186D609F212EEAA30020BC1B /* QQTabBarController.h */,
+				186D60A0212EEAA30020BC1B /* QQTabBarController.m */,
 			);
 			path = Controller;
 			sourceTree = "<group>";
@@ -130,6 +161,13 @@
 		18A97CB6212AEE5C00A6A033 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				186D60A2212EEABE0020BC1B /* QQNavigationBar.h */,
+				186D60A3212EEABE0020BC1B /* QQNavigationBar.m */,
+				186D60A5212EEACE0020BC1B /* QQTabBar.h */,
+				186D60A6212EEACE0020BC1B /* QQTabBar.m */,
+				186D60AB212EEB580020BC1B /* QQTabBarMiddleView.h */,
+				186D60AC212EEB580020BC1B /* QQTabBarMiddleView.m */,
+				186D60B0212EEB8B0020BC1B /* QQTabBarMiddleView.xib */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -173,6 +211,7 @@
 		18A97C8B212AEB5C00A6A033 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				CLASSPREFIX = QQ;
 				LastUpgradeCheck = 0940;
 				ORGANIZATIONNAME = "王红庆";
 				TargetAttributes = {
@@ -205,6 +244,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				18A97CA0212AEB5D00A6A033 /* Assets.xcassets in Resources */,
+				186D60B1212EEB8B0020BC1B /* QQTabBarMiddleView.xib in Resources */,
 				18A97C9E212AEB5C00A6A033 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -216,12 +256,19 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				186D60B4212EF20B0020BC1B /* TestVC.m in Sources */,
 				186D6095212EE8FC0020BC1B /* UIView+Frame.m in Sources */,
+				186D60B7212EF22F0020BC1B /* TestVC2.m in Sources */,
+				186D60AD212EEB580020BC1B /* QQTabBarMiddleView.m in Sources */,
+				186D60A1212EEAA30020BC1B /* QQTabBarController.m in Sources */,
 				186D609B212EE9F40020BC1B /* CALayer+PauseAimate.m in Sources */,
 				18A97C9B212AEB5C00A6A033 /* ViewController.m in Sources */,
 				186D6098212EE9B60020BC1B /* UIImage+QQImage.m in Sources */,
 				18A97CBD212AEED600A6A033 /* main.m in Sources */,
+				186D60A4212EEABE0020BC1B /* QQNavigationBar.m in Sources */,
+				186D60A7212EEACE0020BC1B /* QQTabBar.m in Sources */,
 				18A97CBA212AEEB200A6A033 /* AppDelegate.m in Sources */,
+				186D609E212EEA860020BC1B /* QQNavigationController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
