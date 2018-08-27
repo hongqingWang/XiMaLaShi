@@ -1,16 +1,16 @@
 PODS:
-  - QQBase (0.0.1)
+  - QQFMBase (0.1.0)
 
 DEPENDENCIES:
-  - QQBase (from `../../LocalLib/QQBase`)
+  - QQFMBase
 
-EXTERNAL SOURCES:
-  QQBase:
-    :path: "../../LocalLib/QQBase"
+SPEC REPOS:
+  "git@gitee.com:yizhuangwuyanzu/QQSpecs.git":
+    - QQFMBase
 
 SPEC CHECKSUMS:
-  QQBase: cdfae9ff34155309486916044177e5dfcb5282d0
+  QQFMBase: 34ef60cd3963c8ebac0aae025a4470aa2e6e2919
 
-PODFILE CHECKSUM: 5bc90b49438b9f3a105838d4b2dfb2a2449baeb6
+PODFILE CHECKSUM: c626f6c447d7d10c9ed9975becd658c615ad8869
 
 COCOAPODS: 1.5.3
