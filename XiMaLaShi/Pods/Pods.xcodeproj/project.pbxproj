@@ -7,57 +7,57 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		1A2F72F23DA017099CAEC54783D37E38 /* UIImage+QQImage.h in Headers */ = {isa = PBXBuildFile; fileRef = A898877636F53C217CCAF79E86D9BA2E /* UIImage+QQImage.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		2FA27528D84277318C04DE45D1F0EF3A /* QQFMBase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = B3319C95F56E0827C850F6B5EADA5DC8 /* QQFMBase-dummy.m */; };
-		3819B1AD9466F19D6B04F0B844F9F5A7 /* CALayer+PauseAimate.h in Headers */ = {isa = PBXBuildFile; fileRef = FFD7F1B0D8F2734113A124E4859D7A5F /* CALayer+PauseAimate.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		5AA9F5473C38CEC18FCA0B98DDE73690 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = 15680CD569754612AE10C019939C3404 /* UIView+Frame.m */; };
-		9283A4DD6591D1F65DF3613728DDAD18 /* Pods-XiMaLaShi-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CED5C05C7C1A45D2CD1E3A0D048CEC44 /* Pods-XiMaLaShi-dummy.m */; };
-		9571CFF30C92F47477BEDF0DC8E548A3 /* UIView+Frame.h in Headers */ = {isa = PBXBuildFile; fileRef = 0B432767C90F329E706AA41B7C622C09 /* UIView+Frame.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		9B6F42EEDAE7F4DE76BE8C2EFB157BB3 /* UIImage+QQImage.m in Sources */ = {isa = PBXBuildFile; fileRef = E545DF77C6D50CD2E817CB5579A55693 /* UIImage+QQImage.m */; };
-		C47805F3CC658DE9BC2CCDE8D209F98E /* CALayer+PauseAimate.m in Sources */ = {isa = PBXBuildFile; fileRef = CBBC2CBF2C71660917CC2B050C0D7029 /* CALayer+PauseAimate.m */; };
+		18AA1B15D0ABC702A529F49540C95D7A /* UIView+Frame.h in Headers */ = {isa = PBXBuildFile; fileRef = E62D1A3A153590A9C10D19AA73C7A1EA /* UIView+Frame.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		3E19B9A67D4663C67D33FEDFD15B4135 /* UIImage+QQImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 895B0186FAA9C1B6AA8A6EC9520D7B1E /* UIImage+QQImage.m */; };
+		51DF4257C381DDE13FD4A189947AECE5 /* CALayer+PauseAimate.h in Headers */ = {isa = PBXBuildFile; fileRef = 609859F0B6FE0CE8F3D55BF5E13077EA /* CALayer+PauseAimate.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		60343ED0C1A9C31B0A8442518F4F5968 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = C2D38EEBD9593D0FF6AEDB7B0CBBCEF4 /* UIView+Frame.m */; };
+		83683046275C29AE7A89D728E7F26FD8 /* Pods-XiMaLaShi-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CED5C05C7C1A45D2CD1E3A0D048CEC44 /* Pods-XiMaLaShi-dummy.m */; };
+		DD5B0DDEEDEA184E51E0F4541278F02B /* UIImage+QQImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 7281E83240CE403B244AEBA23E373952 /* UIImage+QQImage.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		E48D5AC32F63A9E9D77C7479842F75E9 /* QQBase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FF32546F507F7DA178B45531EAD8BE42 /* QQBase-dummy.m */; };
+		FA89BABDED9765F5A0AC7F1F58D2E62B /* CALayer+PauseAimate.m in Sources */ = {isa = PBXBuildFile; fileRef = 05120FFEED3CFE2D4DFBD91F653E8394 /* CALayer+PauseAimate.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		47501CF34481C64E1CC5605E86E384BB /* PBXContainerItemProxy */ = {
+		9BDADD13AE3E506D71E57FACF57F9B03 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = D41D8CD98F00B204E9800998ECF8427E /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = 6CCE45A0DB8E9A7A46C3B18F445BF39B;
-			remoteInfo = QQFMBase;
+			remoteGlobalIDString = 8D692B53F2BECEF2FDEBD3E59784C5EB;
+			remoteInfo = QQBase;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		0B432767C90F329E706AA41B7C622C09 /* UIView+Frame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Frame.h"; path = "QQFMBase/Classes/Category/UIView+Frame.h"; sourceTree = "<group>"; };
-		15680CD569754612AE10C019939C3404 /* UIView+Frame.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Frame.m"; path = "QQFMBase/Classes/Category/UIView+Frame.m"; sourceTree = "<group>"; };
+		05120FFEED3CFE2D4DFBD91F653E8394 /* CALayer+PauseAimate.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CALayer+PauseAimate.m"; path = "QQBase/Classes/Category/CALayer+PauseAimate.m"; sourceTree = "<group>"; };
 		28FB0DE80D8B3937E806A20833A40599 /* Pods-XiMaLaShi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XiMaLaShi.release.xcconfig"; sourceTree = "<group>"; };
 		45FC4B4F0C9617D9373D234EABA12C99 /* Pods-XiMaLaShi-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XiMaLaShi-resources.sh"; sourceTree = "<group>"; };
-		8F12FB91593396712DA54F852CCA7376 /* libQQFMBase.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libQQFMBase.a; path = libQQFMBase.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		59ED2A8F6663B6A39C4B581742E7DA57 /* QQBase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "QQBase-prefix.pch"; sourceTree = "<group>"; };
+		609859F0B6FE0CE8F3D55BF5E13077EA /* CALayer+PauseAimate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CALayer+PauseAimate.h"; path = "QQBase/Classes/Category/CALayer+PauseAimate.h"; sourceTree = "<group>"; };
+		7281E83240CE403B244AEBA23E373952 /* UIImage+QQImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+QQImage.h"; path = "QQBase/Classes/Category/UIImage+QQImage.h"; sourceTree = "<group>"; };
+		7655996557F278DAD18782C2D47161DF /* QQBase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QQBase.xcconfig; sourceTree = "<group>"; };
+		895B0186FAA9C1B6AA8A6EC9520D7B1E /* UIImage+QQImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+QQImage.m"; path = "QQBase/Classes/Category/UIImage+QQImage.m"; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
-		9B29D7C40CB434D5CA43CA7EEF0836B9 /* QQFMBase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QQFMBase.xcconfig; sourceTree = "<group>"; };
-		A898877636F53C217CCAF79E86D9BA2E /* UIImage+QQImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+QQImage.h"; path = "QQFMBase/Classes/Category/UIImage+QQImage.h"; sourceTree = "<group>"; };
 		AEF18D8F398525B5F27A7788C77E9B5C /* Pods-XiMaLaShi.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XiMaLaShi.debug.xcconfig"; sourceTree = "<group>"; };
-		B3319C95F56E0827C850F6B5EADA5DC8 /* QQFMBase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "QQFMBase-dummy.m"; sourceTree = "<group>"; };
-		BC6F5F0C432B55382C1920A8BC5CAD35 /* libPods-XiMaLaShi.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-XiMaLaShi.a"; path = "libPods-XiMaLaShi.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C2D38EEBD9593D0FF6AEDB7B0CBBCEF4 /* UIView+Frame.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Frame.m"; path = "QQBase/Classes/Category/UIView+Frame.m"; sourceTree = "<group>"; };
+		C7B5669179852FBE1B99B9797C35EF6F /* libPods-XiMaLaShi.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-XiMaLaShi.a"; path = "libPods-XiMaLaShi.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C8C89D5BC765A357A4366153350B4C7B /* Pods-XiMaLaShi-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XiMaLaShi-frameworks.sh"; sourceTree = "<group>"; };
-		CBBC2CBF2C71660917CC2B050C0D7029 /* CALayer+PauseAimate.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CALayer+PauseAimate.m"; path = "QQFMBase/Classes/Category/CALayer+PauseAimate.m"; sourceTree = "<group>"; };
 		CED5C05C7C1A45D2CD1E3A0D048CEC44 /* Pods-XiMaLaShi-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XiMaLaShi-dummy.m"; sourceTree = "<group>"; };
 		DD427D111D07C44EE220255CBD758EA5 /* Pods-XiMaLaShi-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XiMaLaShi-acknowledgements.plist"; sourceTree = "<group>"; };
-		E0ACA308E919633B08FB38820B61A619 /* QQFMBase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "QQFMBase-prefix.pch"; sourceTree = "<group>"; };
-		E545DF77C6D50CD2E817CB5579A55693 /* UIImage+QQImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+QQImage.m"; path = "QQFMBase/Classes/Category/UIImage+QQImage.m"; sourceTree = "<group>"; };
+		E62D1A3A153590A9C10D19AA73C7A1EA /* UIView+Frame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Frame.h"; path = "QQBase/Classes/Category/UIView+Frame.h"; sourceTree = "<group>"; };
+		EC4998DC0FF3676A884817631AE90545 /* libQQBase.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libQQBase.a; path = libQQBase.a; sourceTree = BUILT_PRODUCTS_DIR; };
 		F6C2DF0CE6DAA4800EB30E6B8C9496B2 /* Pods-XiMaLaShi-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XiMaLaShi-acknowledgements.markdown"; sourceTree = "<group>"; };
-		FFD7F1B0D8F2734113A124E4859D7A5F /* CALayer+PauseAimate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CALayer+PauseAimate.h"; path = "QQFMBase/Classes/Category/CALayer+PauseAimate.h"; sourceTree = "<group>"; };
+		FF32546F507F7DA178B45531EAD8BE42 /* QQBase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "QQBase-dummy.m"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		3A4C414BFA87B45A5F4BD8A8FE67CF58 /* Frameworks */ = {
+		50A873CB207A52DAA0718320DA987BA6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		970DFFCEC2001DCF86113AFC7FADB3CA /* Frameworks */ = {
+		EDDD5DB74F3288967409FD4F6902436A /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -67,6 +67,14 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		0E9C2D2814F7DC05F4A4E93F688792AA /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				312E8E485E8665ABF056E440AA653CCE /* QQBase */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
 		0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -74,19 +82,19 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
-		198033FADBC1EED76BB4B66B54C26C3A /* QQFMBase */ = {
+		312E8E485E8665ABF056E440AA653CCE /* QQBase */ = {
 			isa = PBXGroup;
 			children = (
-				FFD7F1B0D8F2734113A124E4859D7A5F /* CALayer+PauseAimate.h */,
-				CBBC2CBF2C71660917CC2B050C0D7029 /* CALayer+PauseAimate.m */,
-				A898877636F53C217CCAF79E86D9BA2E /* UIImage+QQImage.h */,
-				E545DF77C6D50CD2E817CB5579A55693 /* UIImage+QQImage.m */,
-				0B432767C90F329E706AA41B7C622C09 /* UIView+Frame.h */,
-				15680CD569754612AE10C019939C3404 /* UIView+Frame.m */,
-				6E5518C6DD0065C279483F54ED014B57 /* Support Files */,
+				609859F0B6FE0CE8F3D55BF5E13077EA /* CALayer+PauseAimate.h */,
+				05120FFEED3CFE2D4DFBD91F653E8394 /* CALayer+PauseAimate.m */,
+				7281E83240CE403B244AEBA23E373952 /* UIImage+QQImage.h */,
+				895B0186FAA9C1B6AA8A6EC9520D7B1E /* UIImage+QQImage.m */,
+				E62D1A3A153590A9C10D19AA73C7A1EA /* UIView+Frame.h */,
+				C2D38EEBD9593D0FF6AEDB7B0CBBCEF4 /* UIView+Frame.m */,
+				A2AAFECF2745F60F096758FF5DDC1CCC /* Support Files */,
 			);
-			name = QQFMBase;
-			path = QQFMBase;
+			name = QQBase;
+			path = QQBase;
 			sourceTree = "<group>";
 		};
 		3FFA371C7B45C716FE09C35539105C2C /* Targets Support Files */ = {
@@ -97,32 +105,13 @@
 			name = "Targets Support Files";
 			sourceTree = "<group>";
 		};
-		6E5518C6DD0065C279483F54ED014B57 /* Support Files */ = {
-			isa = PBXGroup;
-			children = (
-				9B29D7C40CB434D5CA43CA7EEF0836B9 /* QQFMBase.xcconfig */,
-				B3319C95F56E0827C850F6B5EADA5DC8 /* QQFMBase-dummy.m */,
-				E0ACA308E919633B08FB38820B61A619 /* QQFMBase-prefix.pch */,
-			);
-			name = "Support Files";
-			path = "../Target Support Files/QQFMBase";
-			sourceTree = "<group>";
-		};
-		7BD035C395E84AF5A7D003B83C9A9CB0 /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				198033FADBC1EED76BB4B66B54C26C3A /* QQFMBase */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
 		7DB346D0F39D3F0E887471402A8071AB = {
 			isa = PBXGroup;
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
-				7BD035C395E84AF5A7D003B83C9A9CB0 /* Pods */,
-				97D5C8C50B74546E02CED130C4244CC4 /* Products */,
+				0E9C2D2814F7DC05F4A4E93F688792AA /* Pods */,
+				E1E346CAC1750D610A6BE9358FF7F119 /* Products */,
 				3FFA371C7B45C716FE09C35539105C2C /* Targets Support Files */,
 			);
 			sourceTree = "<group>";
@@ -142,11 +131,22 @@
 			path = "Target Support Files/Pods-XiMaLaShi";
 			sourceTree = "<group>";
 		};
-		97D5C8C50B74546E02CED130C4244CC4 /* Products */ = {
+		A2AAFECF2745F60F096758FF5DDC1CCC /* Support Files */ = {
 			isa = PBXGroup;
 			children = (
-				BC6F5F0C432B55382C1920A8BC5CAD35 /* libPods-XiMaLaShi.a */,
-				8F12FB91593396712DA54F852CCA7376 /* libQQFMBase.a */,
+				7655996557F278DAD18782C2D47161DF /* QQBase.xcconfig */,
+				FF32546F507F7DA178B45531EAD8BE42 /* QQBase-dummy.m */,
+				59ED2A8F6663B6A39C4B581742E7DA57 /* QQBase-prefix.pch */,
+			);
+			name = "Support Files";
+			path = "../Target Support Files/QQBase";
+			sourceTree = "<group>";
+		};
+		E1E346CAC1750D610A6BE9358FF7F119 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				C7B5669179852FBE1B99B9797C35EF6F /* libPods-XiMaLaShi.a */,
+				EC4998DC0FF3676A884817631AE90545 /* libQQBase.a */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -154,51 +154,51 @@
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		A030A78703517D3E51B8237E72E13558 /* Headers */ = {
+		CBC62E06CFCB712D7E6BE6F315AE1A1D /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3819B1AD9466F19D6B04F0B844F9F5A7 /* CALayer+PauseAimate.h in Headers */,
-				1A2F72F23DA017099CAEC54783D37E38 /* UIImage+QQImage.h in Headers */,
-				9571CFF30C92F47477BEDF0DC8E548A3 /* UIView+Frame.h in Headers */,
+				51DF4257C381DDE13FD4A189947AECE5 /* CALayer+PauseAimate.h in Headers */,
+				DD5B0DDEEDEA184E51E0F4541278F02B /* UIImage+QQImage.h in Headers */,
+				18AA1B15D0ABC702A529F49540C95D7A /* UIView+Frame.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXHeadersBuildPhase section */
 
 /* Begin PBXNativeTarget section */
-		47560028CCAA73CAA81372CB9275CBF2 /* Pods-XiMaLaShi */ = {
+		49B23CAA0383716178BA4841C3931FCC /* Pods-XiMaLaShi */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 34F22537D5A132ED989946962B3A228F /* Build configuration list for PBXNativeTarget "Pods-XiMaLaShi" */;
+			buildConfigurationList = 860D27E382A591BB7AA49E49E411B617 /* Build configuration list for PBXNativeTarget "Pods-XiMaLaShi" */;
 			buildPhases = (
-				F303216CD9EA5AB7DA1CCB70BDD49A68 /* Sources */,
-				970DFFCEC2001DCF86113AFC7FADB3CA /* Frameworks */,
+				243FFB133FA6244A5FE05B4AD350F616 /* Sources */,
+				50A873CB207A52DAA0718320DA987BA6 /* Frameworks */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				7BA0D95650909D2E27AC58D7DC42491D /* PBXTargetDependency */,
+				4150F36F71090D9936C33450CF066A01 /* PBXTargetDependency */,
 			);
 			name = "Pods-XiMaLaShi";
 			productName = "Pods-XiMaLaShi";
-			productReference = BC6F5F0C432B55382C1920A8BC5CAD35 /* libPods-XiMaLaShi.a */;
+			productReference = C7B5669179852FBE1B99B9797C35EF6F /* libPods-XiMaLaShi.a */;
 			productType = "com.apple.product-type.library.static";
 		};
-		6CCE45A0DB8E9A7A46C3B18F445BF39B /* QQFMBase */ = {
+		8D692B53F2BECEF2FDEBD3E59784C5EB /* QQBase */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 80949B97704078BB309BDEC70F61608B /* Build configuration list for PBXNativeTarget "QQFMBase" */;
+			buildConfigurationList = 8C3D0D5DFC1321CD5020790CD6AB7A93 /* Build configuration list for PBXNativeTarget "QQBase" */;
 			buildPhases = (
-				553E2730A116C86AA6CF235CE4E1A973 /* Sources */,
-				3A4C414BFA87B45A5F4BD8A8FE67CF58 /* Frameworks */,
-				A030A78703517D3E51B8237E72E13558 /* Headers */,
+				81CC06DCFBDFBC847BE5F7E3333B1EC8 /* Sources */,
+				EDDD5DB74F3288967409FD4F6902436A /* Frameworks */,
+				CBC62E06CFCB712D7E6BE6F315AE1A1D /* Headers */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
-			name = QQFMBase;
-			productName = QQFMBase;
-			productReference = 8F12FB91593396712DA54F852CCA7376 /* libQQFMBase.a */;
+			name = QQBase;
+			productName = QQBase;
+			productReference = EC4998DC0FF3676A884817631AE90545 /* libQQBase.a */;
 			productType = "com.apple.product-type.library.static";
 		};
 /* End PBXNativeTarget section */
@@ -218,49 +218,49 @@
 				en,
 			);
 			mainGroup = 7DB346D0F39D3F0E887471402A8071AB;
-			productRefGroup = 97D5C8C50B74546E02CED130C4244CC4 /* Products */;
+			productRefGroup = E1E346CAC1750D610A6BE9358FF7F119 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				47560028CCAA73CAA81372CB9275CBF2 /* Pods-XiMaLaShi */,
-				6CCE45A0DB8E9A7A46C3B18F445BF39B /* QQFMBase */,
+				49B23CAA0383716178BA4841C3931FCC /* Pods-XiMaLaShi */,
+				8D692B53F2BECEF2FDEBD3E59784C5EB /* QQBase */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXSourcesBuildPhase section */
-		553E2730A116C86AA6CF235CE4E1A973 /* Sources */ = {
+		243FFB133FA6244A5FE05B4AD350F616 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				C47805F3CC658DE9BC2CCDE8D209F98E /* CALayer+PauseAimate.m in Sources */,
-				2FA27528D84277318C04DE45D1F0EF3A /* QQFMBase-dummy.m in Sources */,
-				9B6F42EEDAE7F4DE76BE8C2EFB157BB3 /* UIImage+QQImage.m in Sources */,
-				5AA9F5473C38CEC18FCA0B98DDE73690 /* UIView+Frame.m in Sources */,
+				83683046275C29AE7A89D728E7F26FD8 /* Pods-XiMaLaShi-dummy.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		F303216CD9EA5AB7DA1CCB70BDD49A68 /* Sources */ = {
+		81CC06DCFBDFBC847BE5F7E3333B1EC8 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9283A4DD6591D1F65DF3613728DDAD18 /* Pods-XiMaLaShi-dummy.m in Sources */,
+				FA89BABDED9765F5A0AC7F1F58D2E62B /* CALayer+PauseAimate.m in Sources */,
+				E48D5AC32F63A9E9D77C7479842F75E9 /* QQBase-dummy.m in Sources */,
+				3E19B9A67D4663C67D33FEDFD15B4135 /* UIImage+QQImage.m in Sources */,
+				60343ED0C1A9C31B0A8442518F4F5968 /* UIView+Frame.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		7BA0D95650909D2E27AC58D7DC42491D /* PBXTargetDependency */ = {
+		4150F36F71090D9936C33450CF066A01 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			name = QQFMBase;
-			target = 6CCE45A0DB8E9A7A46C3B18F445BF39B /* QQFMBase */;
-			targetProxy = 47501CF34481C64E1CC5605E86E384BB /* PBXContainerItemProxy */;
+			name = QQBase;
+			target = 8D692B53F2BECEF2FDEBD3E59784C5EB /* QQBase */;
+			targetProxy = 9BDADD13AE3E506D71E57FACF57F9B03 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		0512BEBB3EBA0DD8E189784F936233FE /* Debug */ = {
+		177344E575BE149CC9F64AAB25D09ECF /* Debug */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = AEF18D8F398525B5F27A7788C77E9B5C /* Pods-XiMaLaShi.debug.xcconfig */;
 			buildSettings = {
@@ -280,6 +280,30 @@
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
+		};
+		1BF66E972C2C3FBADA257D83B7744DE7 /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7655996557F278DAD18782C2D47161DF /* QQBase.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/QQBase/QQBase-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = QQBase;
+				PRODUCT_NAME = QQBase;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
 		};
 		1EE19F5DD95931924296F637BF18BD8F /* Debug */ = {
 			isa = XCBuildConfiguration;
@@ -344,30 +368,7 @@
 			};
 			name = Debug;
 		};
-		7A0A0EDBFCF9E959CC824C691FFA3FAA /* Debug */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9B29D7C40CB434D5CA43CA7EEF0836B9 /* QQFMBase.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/QQFMBase/QQFMBase-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = QQFMBase;
-				PRODUCT_NAME = QQFMBase;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-			};
-			name = Debug;
-		};
-		DF76530A538EC4EEBCFBD439AFECF3D0 /* Release */ = {
+		535470CAA79E85F9D507E66AC8CC4852 /* Release */ = {
 			isa = XCBuildConfiguration;
 			baseConfigurationReference = 28FB0DE80D8B3937E806A20833A40599 /* Pods-XiMaLaShi.release.xcconfig */;
 			buildSettings = {
@@ -388,6 +389,29 @@
 				VALIDATE_PRODUCT = YES;
 			};
 			name = Release;
+		};
+		ABEAAC3659D51749E000DC55F885B3E4 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 7655996557F278DAD18782C2D47161DF /* QQBase.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
+				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
+				GCC_PREFIX_HEADER = "Target Support Files/QQBase/QQBase-prefix.pch";
+				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
+				OTHER_LDFLAGS = "";
+				OTHER_LIBTOOLFLAGS = "";
+				PRIVATE_HEADERS_FOLDER_PATH = "";
+				PRODUCT_MODULE_NAME = QQBase;
+				PRODUCT_NAME = QQBase;
+				PUBLIC_HEADERS_FOLDER_PATH = "";
+				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
 		};
 		F4568DEE257655D290C2B9CEAB37C934 /* Release */ = {
 			isa = XCBuildConfiguration;
@@ -447,30 +471,6 @@
 			};
 			name = Release;
 		};
-		FF0B230181B5FB5916E9F32CBCE3AEFD /* Release */ = {
-			isa = XCBuildConfiguration;
-			baseConfigurationReference = 9B29D7C40CB434D5CA43CA7EEF0836B9 /* QQFMBase.xcconfig */;
-			buildSettings = {
-				CODE_SIGN_IDENTITY = "iPhone Developer";
-				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "";
-				"CODE_SIGN_IDENTITY[sdk=watchos*]" = "";
-				GCC_PREFIX_HEADER = "Target Support Files/QQFMBase/QQFMBase-prefix.pch";
-				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
-				OTHER_LDFLAGS = "";
-				OTHER_LIBTOOLFLAGS = "";
-				PRIVATE_HEADERS_FOLDER_PATH = "";
-				PRODUCT_MODULE_NAME = QQFMBase;
-				PRODUCT_NAME = QQFMBase;
-				PUBLIC_HEADERS_FOLDER_PATH = "";
-				SDKROOT = iphoneos;
-				SKIP_INSTALL = YES;
-				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited) ";
-				TARGETED_DEVICE_FAMILY = "1,2";
-				VALIDATE_PRODUCT = YES;
-			};
-			name = Release;
-		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
@@ -483,20 +483,20 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		34F22537D5A132ED989946962B3A228F /* Build configuration list for PBXNativeTarget "Pods-XiMaLaShi" */ = {
+		860D27E382A591BB7AA49E49E411B617 /* Build configuration list for PBXNativeTarget "Pods-XiMaLaShi" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				0512BEBB3EBA0DD8E189784F936233FE /* Debug */,
-				DF76530A538EC4EEBCFBD439AFECF3D0 /* Release */,
+				177344E575BE149CC9F64AAB25D09ECF /* Debug */,
+				535470CAA79E85F9D507E66AC8CC4852 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		80949B97704078BB309BDEC70F61608B /* Build configuration list for PBXNativeTarget "QQFMBase" */ = {
+		8C3D0D5DFC1321CD5020790CD6AB7A93 /* Build configuration list for PBXNativeTarget "QQBase" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				7A0A0EDBFCF9E959CC824C691FFA3FAA /* Debug */,
-				FF0B230181B5FB5916E9F32CBCE3AEFD /* Release */,
+				ABEAAC3659D51749E000DC55F885B3E4 /* Debug */,
+				1BF66E972C2C3FBADA257D83B7744DE7 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;

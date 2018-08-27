@@ -1,7 +1,7 @@
 # Acknowledgements
 This application makes use of the following third party libraries:
 
-## QQFMBase
+## QQBase
 
 Copyright (c) 2018 hongqingWang <272338444@qq.com>
 

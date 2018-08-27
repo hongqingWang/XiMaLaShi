@@ -1,16 +1,16 @@
 PODS:
-  - QQFMBase (0.1.0)
+  - QQBase (0.1.0)
 
 DEPENDENCIES:
-  - QQFMBase
+  - QQBase
 
 SPEC REPOS:
   "git@gitee.com:yizhuangwuyanzu/QQSpecs.git":
-    - QQFMBase
+    - QQBase
 
 SPEC CHECKSUMS:
-  QQFMBase: 34ef60cd3963c8ebac0aae025a4470aa2e6e2919
+  QQBase: 8fc25963a4cf604f4b2b393a32d420ac7b46b41d
 
-PODFILE CHECKSUM: c626f6c447d7d10c9ed9975becd658c615ad8869
+PODFILE CHECKSUM: 6ff4f98130983552787cb407d59db535fe1164c0
 
 COCOAPODS: 1.5.3
