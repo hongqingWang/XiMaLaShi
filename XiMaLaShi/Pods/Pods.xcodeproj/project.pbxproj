@@ -7,14 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		18AA1B15D0ABC702A529F49540C95D7A /* UIView+Frame.h in Headers */ = {isa = PBXBuildFile; fileRef = E62D1A3A153590A9C10D19AA73C7A1EA /* UIView+Frame.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		3E19B9A67D4663C67D33FEDFD15B4135 /* UIImage+QQImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 895B0186FAA9C1B6AA8A6EC9520D7B1E /* UIImage+QQImage.m */; };
-		51DF4257C381DDE13FD4A189947AECE5 /* CALayer+PauseAimate.h in Headers */ = {isa = PBXBuildFile; fileRef = 609859F0B6FE0CE8F3D55BF5E13077EA /* CALayer+PauseAimate.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		60343ED0C1A9C31B0A8442518F4F5968 /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = C2D38EEBD9593D0FF6AEDB7B0CBBCEF4 /* UIView+Frame.m */; };
+		11262FAC45AC52156D34B9CE8DF4E1EB /* UIView+Frame.m in Sources */ = {isa = PBXBuildFile; fileRef = B2F766369C709072988BF2F5CB852598 /* UIView+Frame.m */; };
+		41249E0458727602347E5912257E38C4 /* XMGNoticeLocal.m in Sources */ = {isa = PBXBuildFile; fileRef = 6A4E688C7C1C7E4B20B64CA1C9B640A2 /* XMGNoticeLocal.m */; };
+		43BDB04F0A9BF984AC3B29D455613CEC /* XMGConst.h in Headers */ = {isa = PBXBuildFile; fileRef = DA8EA4B0EBABE938CFBDFEA285261579 /* XMGConst.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		578F7A72405CF3649226B3782BD91639 /* XMGDeviceMessage.m in Sources */ = {isa = PBXBuildFile; fileRef = C8B8A98F4BAAF44F43289A3C3E5A9EC1 /* XMGDeviceMessage.m */; };
+		61D4BAD3AB998673F51838681569FEF2 /* XMGAlertTool.m in Sources */ = {isa = PBXBuildFile; fileRef = B4B08D8FAD8450197A2E158A06EEEE7F /* XMGAlertTool.m */; };
+		78CD1D589DF5B9C8415C21F48D821BC2 /* CALayer+PauseAimate.m in Sources */ = {isa = PBXBuildFile; fileRef = D0739C7D7339BDEF71F6AF6BC172357E /* CALayer+PauseAimate.m */; };
+		792AAE52C9389FA42EA8B29C0FD0304A /* XMGConst.m in Sources */ = {isa = PBXBuildFile; fileRef = F3E8D120174404F5C22E1B4CA0547D32 /* XMGConst.m */; };
+		7C66DA944C9BE5F3F558CB8D70414C68 /* XMGNoticeLocal.h in Headers */ = {isa = PBXBuildFile; fileRef = 28F684EBC3835EDB57D87BCD671B5935 /* XMGNoticeLocal.h */; settings = {ATTRIBUTES = (Project, ); }; };
 		83683046275C29AE7A89D728E7F26FD8 /* Pods-XiMaLaShi-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = CED5C05C7C1A45D2CD1E3A0D048CEC44 /* Pods-XiMaLaShi-dummy.m */; };
-		DD5B0DDEEDEA184E51E0F4541278F02B /* UIImage+QQImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 7281E83240CE403B244AEBA23E373952 /* UIImage+QQImage.h */; settings = {ATTRIBUTES = (Project, ); }; };
-		E48D5AC32F63A9E9D77C7479842F75E9 /* QQBase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = FF32546F507F7DA178B45531EAD8BE42 /* QQBase-dummy.m */; };
-		FA89BABDED9765F5A0AC7F1F58D2E62B /* CALayer+PauseAimate.m in Sources */ = {isa = PBXBuildFile; fileRef = 05120FFEED3CFE2D4DFBD91F653E8394 /* CALayer+PauseAimate.m */; };
+		8BF598F76C87395E9C3437EDE10DD711 /* UIImage+QQImage.m in Sources */ = {isa = PBXBuildFile; fileRef = 34E59B14914AF1B71A919C787A8CCF2F /* UIImage+QQImage.m */; };
+		8DE35260A47C0019F79E5CC501471C30 /* XMGCacheTool.m in Sources */ = {isa = PBXBuildFile; fileRef = 89A97B6341A9074AFF405A577928E6F7 /* XMGCacheTool.m */; };
+		A74E654FCA12EC2A911D7A3022BB423E /* XMGAlertTool.h in Headers */ = {isa = PBXBuildFile; fileRef = 01430204613B25F18DF0AE941C890A32 /* XMGAlertTool.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		B25BBBE70B1D20C2F40368CBD0A1261F /* UIView+Frame.h in Headers */ = {isa = PBXBuildFile; fileRef = 0EDCEE9D409F8460FA94FA0A398E7135 /* UIView+Frame.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		B943EDAA921525A8339BD5BD1867D3D9 /* CALayer+PauseAimate.h in Headers */ = {isa = PBXBuildFile; fileRef = E8B391E0292954CFDE3C5442AC0420EA /* CALayer+PauseAimate.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		C1433E7BDFE5CDFC60A875A2B9D5962C /* Sington.h in Headers */ = {isa = PBXBuildFile; fileRef = FFB5BC3A05069EA822F4111349BF61F4 /* Sington.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		CD14F6E4D870A5CB7414741866AB0F47 /* QQBase-dummy.m in Sources */ = {isa = PBXBuildFile; fileRef = 95E2BDDB136D410A253629B8034DD246 /* QQBase-dummy.m */; };
+		D4A7D2B3346DFB68A9F8E55BF33E839E /* Base.h in Headers */ = {isa = PBXBuildFile; fileRef = F29EC34A4124C49C072CD774D6B45D7E /* Base.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		DF732ED4E9BBF7B01A7AF12F9B01A26C /* UIImage+QQImage.h in Headers */ = {isa = PBXBuildFile; fileRef = 7C367AD454EEBB77A4B7369FBC4F89DC /* UIImage+QQImage.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		ED5C5583FFFC46F7A5D3549E9C9508B0 /* XMGCacheTool.h in Headers */ = {isa = PBXBuildFile; fileRef = 986FD46E649197E5A22923194CE2FF81 /* XMGCacheTool.h */; settings = {ATTRIBUTES = (Project, ); }; };
+		F8A858E1D49866284350D0775F67BFAB /* XMGDeviceMessage.h in Headers */ = {isa = PBXBuildFile; fileRef = FC0EE5D1F71D8C8826BC9F0ECC6B1DE0 /* XMGDeviceMessage.h */; settings = {ATTRIBUTES = (Project, ); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -28,25 +40,37 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		05120FFEED3CFE2D4DFBD91F653E8394 /* CALayer+PauseAimate.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CALayer+PauseAimate.m"; path = "QQBase/Classes/Category/CALayer+PauseAimate.m"; sourceTree = "<group>"; };
+		01430204613B25F18DF0AE941C890A32 /* XMGAlertTool.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMGAlertTool.h; path = QQBase/Classes/Tool/XMGAlertTool.h; sourceTree = "<group>"; };
+		0EDCEE9D409F8460FA94FA0A398E7135 /* UIView+Frame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Frame.h"; path = "QQBase/Classes/Category/UIView+Frame.h"; sourceTree = "<group>"; };
+		23F99DEFFE78F4C9F5DD2C447AD5C332 /* QQBase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QQBase.xcconfig; sourceTree = "<group>"; };
+		28F684EBC3835EDB57D87BCD671B5935 /* XMGNoticeLocal.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMGNoticeLocal.h; path = QQBase/Classes/Tool/XMGNoticeLocal.h; sourceTree = "<group>"; };
 		28FB0DE80D8B3937E806A20833A40599 /* Pods-XiMaLaShi.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XiMaLaShi.release.xcconfig"; sourceTree = "<group>"; };
+		34E59B14914AF1B71A919C787A8CCF2F /* UIImage+QQImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+QQImage.m"; path = "QQBase/Classes/Category/UIImage+QQImage.m"; sourceTree = "<group>"; };
 		45FC4B4F0C9617D9373D234EABA12C99 /* Pods-XiMaLaShi-resources.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XiMaLaShi-resources.sh"; sourceTree = "<group>"; };
-		59ED2A8F6663B6A39C4B581742E7DA57 /* QQBase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "QQBase-prefix.pch"; sourceTree = "<group>"; };
-		609859F0B6FE0CE8F3D55BF5E13077EA /* CALayer+PauseAimate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CALayer+PauseAimate.h"; path = "QQBase/Classes/Category/CALayer+PauseAimate.h"; sourceTree = "<group>"; };
-		7281E83240CE403B244AEBA23E373952 /* UIImage+QQImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+QQImage.h"; path = "QQBase/Classes/Category/UIImage+QQImage.h"; sourceTree = "<group>"; };
-		7655996557F278DAD18782C2D47161DF /* QQBase.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = QQBase.xcconfig; sourceTree = "<group>"; };
-		895B0186FAA9C1B6AA8A6EC9520D7B1E /* UIImage+QQImage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIImage+QQImage.m"; path = "QQBase/Classes/Category/UIImage+QQImage.m"; sourceTree = "<group>"; };
+		6A4E688C7C1C7E4B20B64CA1C9B640A2 /* XMGNoticeLocal.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMGNoticeLocal.m; path = QQBase/Classes/Tool/XMGNoticeLocal.m; sourceTree = "<group>"; };
+		7C367AD454EEBB77A4B7369FBC4F89DC /* UIImage+QQImage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIImage+QQImage.h"; path = "QQBase/Classes/Category/UIImage+QQImage.h"; sourceTree = "<group>"; };
+		89A97B6341A9074AFF405A577928E6F7 /* XMGCacheTool.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMGCacheTool.m; path = QQBase/Classes/Tool/XMGCacheTool.m; sourceTree = "<group>"; };
 		93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */ = {isa = PBXFileReference; explicitFileType = text.script.ruby; includeInIndex = 1; lastKnownFileType = text; name = Podfile; path = ../Podfile; sourceTree = SOURCE_ROOT; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
+		95E2BDDB136D410A253629B8034DD246 /* QQBase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "QQBase-dummy.m"; sourceTree = "<group>"; };
+		986FD46E649197E5A22923194CE2FF81 /* XMGCacheTool.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMGCacheTool.h; path = QQBase/Classes/Tool/XMGCacheTool.h; sourceTree = "<group>"; };
 		AEF18D8F398525B5F27A7788C77E9B5C /* Pods-XiMaLaShi.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; path = "Pods-XiMaLaShi.debug.xcconfig"; sourceTree = "<group>"; };
-		C2D38EEBD9593D0FF6AEDB7B0CBBCEF4 /* UIView+Frame.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Frame.m"; path = "QQBase/Classes/Category/UIView+Frame.m"; sourceTree = "<group>"; };
+		B2F766369C709072988BF2F5CB852598 /* UIView+Frame.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "UIView+Frame.m"; path = "QQBase/Classes/Category/UIView+Frame.m"; sourceTree = "<group>"; };
+		B4B08D8FAD8450197A2E158A06EEEE7F /* XMGAlertTool.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMGAlertTool.m; path = QQBase/Classes/Tool/XMGAlertTool.m; sourceTree = "<group>"; };
 		C7B5669179852FBE1B99B9797C35EF6F /* libPods-XiMaLaShi.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = "libPods-XiMaLaShi.a"; path = "libPods-XiMaLaShi.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		C8B8A98F4BAAF44F43289A3C3E5A9EC1 /* XMGDeviceMessage.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMGDeviceMessage.m; path = QQBase/Classes/Tool/XMGDeviceMessage.m; sourceTree = "<group>"; };
 		C8C89D5BC765A357A4366153350B4C7B /* Pods-XiMaLaShi-frameworks.sh */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.script.sh; path = "Pods-XiMaLaShi-frameworks.sh"; sourceTree = "<group>"; };
 		CED5C05C7C1A45D2CD1E3A0D048CEC44 /* Pods-XiMaLaShi-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "Pods-XiMaLaShi-dummy.m"; sourceTree = "<group>"; };
+		D0739C7D7339BDEF71F6AF6BC172357E /* CALayer+PauseAimate.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = "CALayer+PauseAimate.m"; path = "QQBase/Classes/Category/CALayer+PauseAimate.m"; sourceTree = "<group>"; };
+		DA8EA4B0EBABE938CFBDFEA285261579 /* XMGConst.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMGConst.h; path = QQBase/Classes/Base/XMGConst.h; sourceTree = "<group>"; };
 		DD427D111D07C44EE220255CBD758EA5 /* Pods-XiMaLaShi-acknowledgements.plist */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.plist.xml; path = "Pods-XiMaLaShi-acknowledgements.plist"; sourceTree = "<group>"; };
-		E62D1A3A153590A9C10D19AA73C7A1EA /* UIView+Frame.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "UIView+Frame.h"; path = "QQBase/Classes/Category/UIView+Frame.h"; sourceTree = "<group>"; };
+		E8B391E0292954CFDE3C5442AC0420EA /* CALayer+PauseAimate.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = "CALayer+PauseAimate.h"; path = "QQBase/Classes/Category/CALayer+PauseAimate.h"; sourceTree = "<group>"; };
 		EC4998DC0FF3676A884817631AE90545 /* libQQBase.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; name = libQQBase.a; path = libQQBase.a; sourceTree = BUILT_PRODUCTS_DIR; };
+		F29EC34A4124C49C072CD774D6B45D7E /* Base.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Base.h; path = QQBase/Classes/Base/Base.h; sourceTree = "<group>"; };
+		F3E8D120174404F5C22E1B4CA0547D32 /* XMGConst.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; name = XMGConst.m; path = QQBase/Classes/Base/XMGConst.m; sourceTree = "<group>"; };
 		F6C2DF0CE6DAA4800EB30E6B8C9496B2 /* Pods-XiMaLaShi-acknowledgements.markdown */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; path = "Pods-XiMaLaShi-acknowledgements.markdown"; sourceTree = "<group>"; };
-		FF32546F507F7DA178B45531EAD8BE42 /* QQBase-dummy.m */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.objc; path = "QQBase-dummy.m"; sourceTree = "<group>"; };
+		F7DF22BCD14600B696D425970A7AE333 /* QQBase-prefix.pch */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; path = "QQBase-prefix.pch"; sourceTree = "<group>"; };
+		FC0EE5D1F71D8C8826BC9F0ECC6B1DE0 /* XMGDeviceMessage.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = XMGDeviceMessage.h; path = QQBase/Classes/Tool/XMGDeviceMessage.h; sourceTree = "<group>"; };
+		FFB5BC3A05069EA822F4111349BF61F4 /* Sington.h */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = sourcecode.c.h; name = Sington.h; path = QQBase/Classes/Base/Sington.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -67,34 +91,11 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		0E9C2D2814F7DC05F4A4E93F688792AA /* Pods */ = {
-			isa = PBXGroup;
-			children = (
-				312E8E485E8665ABF056E440AA653CCE /* QQBase */,
-			);
-			name = Pods;
-			sourceTree = "<group>";
-		};
 		0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
 			);
 			name = Frameworks;
-			sourceTree = "<group>";
-		};
-		312E8E485E8665ABF056E440AA653CCE /* QQBase */ = {
-			isa = PBXGroup;
-			children = (
-				609859F0B6FE0CE8F3D55BF5E13077EA /* CALayer+PauseAimate.h */,
-				05120FFEED3CFE2D4DFBD91F653E8394 /* CALayer+PauseAimate.m */,
-				7281E83240CE403B244AEBA23E373952 /* UIImage+QQImage.h */,
-				895B0186FAA9C1B6AA8A6EC9520D7B1E /* UIImage+QQImage.m */,
-				E62D1A3A153590A9C10D19AA73C7A1EA /* UIView+Frame.h */,
-				C2D38EEBD9593D0FF6AEDB7B0CBBCEF4 /* UIView+Frame.m */,
-				A2AAFECF2745F60F096758FF5DDC1CCC /* Support Files */,
-			);
-			name = QQBase;
-			path = QQBase;
 			sourceTree = "<group>";
 		};
 		3FFA371C7B45C716FE09C35539105C2C /* Targets Support Files */ = {
@@ -110,7 +111,7 @@
 			children = (
 				93A4A3777CF96A4AAC1D13BA6DCCEA73 /* Podfile */,
 				0F8D2E47FE03D3B91B51069F7C273AF4 /* Frameworks */,
-				0E9C2D2814F7DC05F4A4E93F688792AA /* Pods */,
+				881DA24565067064A39FDC805716825D /* Pods */,
 				E1E346CAC1750D610A6BE9358FF7F119 /* Products */,
 				3FFA371C7B45C716FE09C35539105C2C /* Targets Support Files */,
 			);
@@ -131,12 +132,20 @@
 			path = "Target Support Files/Pods-XiMaLaShi";
 			sourceTree = "<group>";
 		};
-		A2AAFECF2745F60F096758FF5DDC1CCC /* Support Files */ = {
+		881DA24565067064A39FDC805716825D /* Pods */ = {
 			isa = PBXGroup;
 			children = (
-				7655996557F278DAD18782C2D47161DF /* QQBase.xcconfig */,
-				FF32546F507F7DA178B45531EAD8BE42 /* QQBase-dummy.m */,
-				59ED2A8F6663B6A39C4B581742E7DA57 /* QQBase-prefix.pch */,
+				E9D6902850E1839B3AF3C83D071A855D /* QQBase */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		D3A763FB032F57A6787C34223BB2F019 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				23F99DEFFE78F4C9F5DD2C447AD5C332 /* QQBase.xcconfig */,
+				95E2BDDB136D410A253629B8034DD246 /* QQBase-dummy.m */,
+				F7DF22BCD14600B696D425970A7AE333 /* QQBase-prefix.pch */,
 			);
 			name = "Support Files";
 			path = "../Target Support Files/QQBase";
@@ -151,16 +160,50 @@
 			name = Products;
 			sourceTree = "<group>";
 		};
+		E9D6902850E1839B3AF3C83D071A855D /* QQBase */ = {
+			isa = PBXGroup;
+			children = (
+				F29EC34A4124C49C072CD774D6B45D7E /* Base.h */,
+				E8B391E0292954CFDE3C5442AC0420EA /* CALayer+PauseAimate.h */,
+				D0739C7D7339BDEF71F6AF6BC172357E /* CALayer+PauseAimate.m */,
+				FFB5BC3A05069EA822F4111349BF61F4 /* Sington.h */,
+				7C367AD454EEBB77A4B7369FBC4F89DC /* UIImage+QQImage.h */,
+				34E59B14914AF1B71A919C787A8CCF2F /* UIImage+QQImage.m */,
+				0EDCEE9D409F8460FA94FA0A398E7135 /* UIView+Frame.h */,
+				B2F766369C709072988BF2F5CB852598 /* UIView+Frame.m */,
+				01430204613B25F18DF0AE941C890A32 /* XMGAlertTool.h */,
+				B4B08D8FAD8450197A2E158A06EEEE7F /* XMGAlertTool.m */,
+				986FD46E649197E5A22923194CE2FF81 /* XMGCacheTool.h */,
+				89A97B6341A9074AFF405A577928E6F7 /* XMGCacheTool.m */,
+				DA8EA4B0EBABE938CFBDFEA285261579 /* XMGConst.h */,
+				F3E8D120174404F5C22E1B4CA0547D32 /* XMGConst.m */,
+				FC0EE5D1F71D8C8826BC9F0ECC6B1DE0 /* XMGDeviceMessage.h */,
+				C8B8A98F4BAAF44F43289A3C3E5A9EC1 /* XMGDeviceMessage.m */,
+				28F684EBC3835EDB57D87BCD671B5935 /* XMGNoticeLocal.h */,
+				6A4E688C7C1C7E4B20B64CA1C9B640A2 /* XMGNoticeLocal.m */,
+				D3A763FB032F57A6787C34223BB2F019 /* Support Files */,
+			);
+			name = QQBase;
+			path = QQBase;
+			sourceTree = "<group>";
+		};
 /* End PBXGroup section */
 
 /* Begin PBXHeadersBuildPhase section */
-		CBC62E06CFCB712D7E6BE6F315AE1A1D /* Headers */ = {
+		37F09196FF7B4D4A08359D781F07B8ED /* Headers */ = {
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				51DF4257C381DDE13FD4A189947AECE5 /* CALayer+PauseAimate.h in Headers */,
-				DD5B0DDEEDEA184E51E0F4541278F02B /* UIImage+QQImage.h in Headers */,
-				18AA1B15D0ABC702A529F49540C95D7A /* UIView+Frame.h in Headers */,
+				D4A7D2B3346DFB68A9F8E55BF33E839E /* Base.h in Headers */,
+				B943EDAA921525A8339BD5BD1867D3D9 /* CALayer+PauseAimate.h in Headers */,
+				C1433E7BDFE5CDFC60A875A2B9D5962C /* Sington.h in Headers */,
+				DF732ED4E9BBF7B01A7AF12F9B01A26C /* UIImage+QQImage.h in Headers */,
+				B25BBBE70B1D20C2F40368CBD0A1261F /* UIView+Frame.h in Headers */,
+				A74E654FCA12EC2A911D7A3022BB423E /* XMGAlertTool.h in Headers */,
+				ED5C5583FFFC46F7A5D3549E9C9508B0 /* XMGCacheTool.h in Headers */,
+				43BDB04F0A9BF984AC3B29D455613CEC /* XMGConst.h in Headers */,
+				F8A858E1D49866284350D0775F67BFAB /* XMGDeviceMessage.h in Headers */,
+				7C66DA944C9BE5F3F558CB8D70414C68 /* XMGNoticeLocal.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -188,9 +231,9 @@
 			isa = PBXNativeTarget;
 			buildConfigurationList = 8C3D0D5DFC1321CD5020790CD6AB7A93 /* Build configuration list for PBXNativeTarget "QQBase" */;
 			buildPhases = (
-				81CC06DCFBDFBC847BE5F7E3333B1EC8 /* Sources */,
+				B210C0DE831BD34082DD43F32283D0F5 /* Sources */,
 				EDDD5DB74F3288967409FD4F6902436A /* Frameworks */,
-				CBC62E06CFCB712D7E6BE6F315AE1A1D /* Headers */,
+				37F09196FF7B4D4A08359D781F07B8ED /* Headers */,
 			);
 			buildRules = (
 			);
@@ -237,14 +280,19 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		81CC06DCFBDFBC847BE5F7E3333B1EC8 /* Sources */ = {
+		B210C0DE831BD34082DD43F32283D0F5 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FA89BABDED9765F5A0AC7F1F58D2E62B /* CALayer+PauseAimate.m in Sources */,
-				E48D5AC32F63A9E9D77C7479842F75E9 /* QQBase-dummy.m in Sources */,
-				3E19B9A67D4663C67D33FEDFD15B4135 /* UIImage+QQImage.m in Sources */,
-				60343ED0C1A9C31B0A8442518F4F5968 /* UIView+Frame.m in Sources */,
+				78CD1D589DF5B9C8415C21F48D821BC2 /* CALayer+PauseAimate.m in Sources */,
+				CD14F6E4D870A5CB7414741866AB0F47 /* QQBase-dummy.m in Sources */,
+				8BF598F76C87395E9C3437EDE10DD711 /* UIImage+QQImage.m in Sources */,
+				11262FAC45AC52156D34B9CE8DF4E1EB /* UIView+Frame.m in Sources */,
+				61D4BAD3AB998673F51838681569FEF2 /* XMGAlertTool.m in Sources */,
+				8DE35260A47C0019F79E5CC501471C30 /* XMGCacheTool.m in Sources */,
+				792AAE52C9389FA42EA8B29C0FD0304A /* XMGConst.m in Sources */,
+				578F7A72405CF3649226B3782BD91639 /* XMGDeviceMessage.m in Sources */,
+				41249E0458727602347E5912257E38C4 /* XMGNoticeLocal.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -283,7 +331,7 @@
 		};
 		1BF66E972C2C3FBADA257D83B7744DE7 /* Release */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7655996557F278DAD18782C2D47161DF /* QQBase.xcconfig */;
+			baseConfigurationReference = 23F99DEFFE78F4C9F5DD2C447AD5C332 /* QQBase.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";
@@ -392,7 +440,7 @@
 		};
 		ABEAAC3659D51749E000DC55F885B3E4 /* Debug */ = {
 			isa = XCBuildConfiguration;
-			baseConfigurationReference = 7655996557F278DAD18782C2D47161DF /* QQBase.xcconfig */;
+			baseConfigurationReference = 23F99DEFFE78F4C9F5DD2C447AD5C332 /* QQBase.xcconfig */;
 			buildSettings = {
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=appletvos*]" = "";

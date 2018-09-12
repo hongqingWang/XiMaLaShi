@@ -1,0 +1,1 @@
+../../../QQBase/QQBase/Classes/Tool/XMGCacheTool.h
