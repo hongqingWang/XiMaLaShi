@@ -10,6 +10,8 @@ target 'XiMaLaShi' do
 
   # Pods for XiMaLaShi
 
-pod 'QQBase'
+#pod 'QQBase'
+pod 'QQBase/Base'
+pod 'QQBase/Category'
 
 end

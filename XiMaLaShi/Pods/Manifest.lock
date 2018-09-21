@@ -1,41 +1,18 @@
 PODS:
-  - AFNetworking (3.2.1):
-    - AFNetworking/NSURLSession (= 3.2.1)
-    - AFNetworking/Reachability (= 3.2.1)
-    - AFNetworking/Security (= 3.2.1)
-    - AFNetworking/Serialization (= 3.2.1)
-    - AFNetworking/UIKit (= 3.2.1)
-  - AFNetworking/NSURLSession (3.2.1):
-    - AFNetworking/Reachability
-    - AFNetworking/Security
-    - AFNetworking/Serialization
-  - AFNetworking/Reachability (3.2.1)
-  - AFNetworking/Security (3.2.1)
-  - AFNetworking/Serialization (3.2.1)
-  - AFNetworking/UIKit (3.2.1):
-    - AFNetworking/NSURLSession
-  - QQBase (0.3.0):
-    - AFNetworking
-    - SDWebImage
-  - SDWebImage (4.4.2):
-    - SDWebImage/Core (= 4.4.2)
-  - SDWebImage/Core (4.4.2)
+  - QQBase/Base (0.5.0)
+  - QQBase/Category (0.5.0)
 
 DEPENDENCIES:
-  - QQBase
+  - QQBase/Base
+  - QQBase/Category
 
 SPEC REPOS:
   "git@gitee.com:yizhuangwuyanzu/QQSpecs.git":
     - QQBase
-  https://github.com/cocoapods/specs.git:
-    - AFNetworking
-    - SDWebImage
 
 SPEC CHECKSUMS:
-  AFNetworking: b6f891fdfaed196b46c7a83cf209e09697b94057
-  QQBase: 6e19bb2281bbdf4c44f43f0a4baa4b8ad0831b4d
-  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  QQBase: 207a3ed90bf3abf64ddb5d521fd8d96b02018e09
 
-PODFILE CHECKSUM: 6ff4f98130983552787cb407d59db535fe1164c0
+PODFILE CHECKSUM: 4b95cd3d6e592b95941669fd78dbe30c3cb96ae7
 
 COCOAPODS: 1.5.3
